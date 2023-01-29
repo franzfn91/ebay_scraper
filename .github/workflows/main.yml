@@ -2,7 +2,7 @@ name: Finding Flats
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 8-23 * * *'
   push:
     branches: main
 
