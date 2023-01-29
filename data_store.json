@@ -559,5 +559,16 @@
     "price": "504 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/eb/eb8c3a9d-a8ec-4758-8fcf-f67b477c84df?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2343495805": {
+    "id": "2343495805",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-moebliert-zwischenmiete-08-23-07-24-hd-weststadt-55qm/2343495805-203-9182",
+    "title": "Wohnung m\u00f6bliert Zwischenmiete 08/23 - 07/24 HD-Weststadt 55qm",
+    "description": "F\u00fcr den Zeitraum vom 01.08.2023-31.07.2024 bieten wir folgende Wohnung zur Zwischenmiete an:\n\nGut...",
+    "added": "Heute, 16:39",
+    "location": "69115 Heidelberg",
+    "price": "800 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/aa/aa3eb824-7659-44c2-bec6-7b690d65e870?rule=$_2.JPG",
+    "is_topad": false
   }
 }
