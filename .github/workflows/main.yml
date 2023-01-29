@@ -3,6 +3,8 @@ name: Finding Flats
 on:
   schedule:
     - cron: '*/30 * * * *'
+  push:
+    branches: main
 
 jobs:
   build:
