@@ -1,0 +1,20 @@
+{
+    "filter": {
+        "exclude_topads": true,
+        "exclude_patterns": []
+    },
+    "notifications": {
+        "pushover": {
+            "token": "token",
+            "user": "user",
+            "device": []
+        }
+    },
+    "searches": [
+        {
+            "name": "Wohnungen in Heidelberg",
+            "url": "https://www.ebay-kleinanzeigen.de/s-wohnung-mieten/heidelberg/c203l9166",
+            "recursive": true
+        }
+    ]
+}
