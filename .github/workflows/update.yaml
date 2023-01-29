@@ -31,7 +31,7 @@ jobs:
     - name: Execute ebay scraper
       run: |
         echo "Running a bash command"
-      ek-scraper run --data-store ./data_store.json heidelberg.json
+        ek-scraper run --data-store ./data_store.json heidelberg.json
 
     - name: Commit changes
       run: |
