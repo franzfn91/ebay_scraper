@@ -1,7 +1,7 @@
 import os
 import json
 
-def replace_string_with_env_var(file_path, app_token, user_token):
+def add_tokens(file_path, app_token, user_token):
     with open(file_path, 'r') as file:
         json_data = json.load(file)
 
@@ -12,10 +12,10 @@ def replace_string_with_env_var(file_path, app_token, user_token):
             f"Environment variable '{secret_app_token}' and '{secret_user_token}' not set."
             )
 
-    json_data["notifications"]["pushover"]["token"] = secret_user_token
+    json_data["notifications"]["pushover"]["token"] = secret_app_token
     json_data["notifications"]["pushover"]["user"] = secret_user_token
     with open(file_path, 'w') as file:
         json.dump(json_data, file)
 
 if __name__ == "__main__":
-    replace_string_with_env_var("heidelberg.json", "APPTOKEN", "USERTOKEN")
+    add_tokens("heidelberg.json", "APPTOKEN", "USERTOKEN")
