@@ -603,5 +603,16 @@
     "price": "900 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/50/50becc1a-60d3-496c-95f1-3d62ec2c9199?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2343713116": {
+    "id": "2343713116",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/2-zkb-in-heidelberg-weststadt/2343713116-203-9182",
+    "title": "2-ZKB in Heidelberg-Weststadt",
+    "description": "2-ZKB-Wohnung in Heidelberg-Weststadt, \"In der Vogelstang\", 1. OG. Ein gr\u00f6\u00dferes Zimmer...",
+    "added": "Heute, 19:04",
+    "location": "69115 Heidelberg",
+    "price": "580 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
