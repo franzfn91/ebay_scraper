@@ -625,5 +625,16 @@
     "price": "VB",
     "image_url": null,
     "is_topad": false
+  },
+  "2307863994": {
+    "id": "2307863994",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/1-5-zimmer-penthouse-wohnung-in-hd-rohrbach/2307863994-203-9177",
+    "title": "1,5-Zimmer Penthouse Wohnung in HD-Rohrbach",
+    "description": "In \u00e4u\u00dferst zentraler Lage des beliebten Stadtteils Rohrbach in der R\u00f6merstra\u00dfe wird diese...",
+    "added": "20.12.2022",
+    "location": "69126 Heidelberg",
+    "price": "810 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/3d/3dc0a24c-5d17-4fbc-95b4-392fe1a299a9?rule=$_2.JPG",
+    "is_topad": false
   }
 }
