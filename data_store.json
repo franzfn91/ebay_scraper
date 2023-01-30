@@ -229,5 +229,16 @@
     "price": "900 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/50/50becc1a-60d3-496c-95f1-3d62ec2c9199?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2344241089": {
+    "id": "2344241089",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/berufstaetiges-paar-mit-kind-sucht-3-4-zkb-mit-balkon/2344241089-203-9179",
+    "title": "Berufst\u00e4tiges Paar mit Kind sucht 3-4 ZKB mit Balkon",
+    "description": "Wir hei\u00dfen Johanna und Sebastian und suchen ab April 2023 mindestens eine 3 ZKB-Wohnung in allen...",
+    "added": "Heute, 12:53",
+    "location": "69120 Heidelberg",
+    "price": "1.200 \u20ac VB",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/98/982a39ba-1969-4829-a059-2630b7c72561?rule=$_2.JPG",
+    "is_topad": false
   }
 }
