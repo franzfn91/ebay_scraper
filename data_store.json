@@ -251,5 +251,16 @@
     "price": "1.180 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6f/6f11b875-b2a0-4a6f-ad09-ab8a40e08b1d?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2344837182": {
+    "id": "2344837182",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-mit-2-balkonen-ebk-und-parkplatz-in-heidelberg/2344837182-203-9184",
+    "title": "3-Zimmer-Wohnung mit 2 Balkonen, EBK und Parkplatz in Heidelberg",
+    "description": "Diese sch\u00f6ne und helle Wohnung liegt leicht versetzt und nach oben von der Stra\u00dfe am Hang des...",
+    "added": "Heute, 23:27",
+    "location": "69117 Heidelberg",
+    "price": "1.300 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/cb/cb5f802b-89e1-474e-9864-e47d2a0fec31?rule=$_2.JPG",
+    "is_topad": false
   }
 }
