@@ -262,5 +262,16 @@
     "price": "1.300 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/cb/cb5f802b-89e1-474e-9864-e47d2a0fec31?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2345080545": {
+    "id": "2345080545",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/schoenes-moebliertes-1-zimmer-apartment-45-qm-mit-separater-kueche/2345080545-203-9182",
+    "title": "Sch\u00f6nes M\u00f6bliertes 1 Zimmer Apartment (45 qm) mit separater K\u00fcche",
+    "description": "ERH\u00c4LTLICH AB 19. MAI\nAVAILABLE FROM 19TH MAY\n\nBeschreibung:\n\nDas sch\u00f6ne m\u00f6blierte 1 Zimmer...",
+    "added": "Heute, 11:57",
+    "location": "69115 Heidelberg",
+    "price": "800 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/d4/d4bc9880-94b4-4d0b-8b08-38adbee7f70d?rule=$_2.JPG",
+    "is_topad": false
   }
 }
