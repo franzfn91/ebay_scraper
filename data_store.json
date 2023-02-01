@@ -273,5 +273,16 @@
     "price": "800 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/d4/d4bc9880-94b4-4d0b-8b08-38adbee7f70d?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2345764871": {
+    "id": "2345764871",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/2-1-2-zimmer-k-b/2345764871-203-9180",
+    "title": "2 1/2 Zimmer/K/B",
+    "description": "2 1/2 Zi/K/B. 68qm m\u00f6bliert + Garten in Karlsruhe-Durlach\n\u20ac 650,--/mtl zum...",
+    "added": "Heute, 07:52",
+    "location": "69121 Heidelberg",
+    "price": "650 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
