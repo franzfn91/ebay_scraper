@@ -295,5 +295,16 @@
     "price": "650 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2346474755": {
+    "id": "2346474755",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/4-zimmer-wohnung-zu-vermieten/2346474755-203-9177",
+    "title": "4-Zimmer Wohnung zu vermieten",
+    "description": "Die Wohnung ist vor 2 Jahren renoviert worden.\nNeu: Fenster, Heizungen, Fu\u00dfb\u00f6den, Bad und...",
+    "added": "Heute, 20:48",
+    "location": "69126 Heidelberg",
+    "price": "1.100 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
