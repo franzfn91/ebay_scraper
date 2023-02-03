@@ -317,5 +317,16 @@
     "price": "700 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2348295021": {
+    "id": "2348295021",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/lichtdurchflutete-3zkb-wohnung-heidelberg-ziegelhausen-80qm-1085/2348295021-203-9183",
+    "title": "LICHTDURCHFLUTETE 3ZKB Wohnung Heidelberg-Ziegelhausen 80qm 1085",
+    "description": "Sch\u00f6ne 3 ZKB in ruhiger Nebenstra\u00dfe in HD-Ziegelhausen\nDie Wohnung befindet sich in der vierten...",
+    "added": "Heute, 22:02",
+    "location": "69118 Heidelberg",
+    "price": "1.085 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/64/64dc6243-f7e2-4e81-81ff-7e0669f57d58?rule=$_2.JPG",
+    "is_topad": false
   }
 }
