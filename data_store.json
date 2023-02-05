@@ -361,5 +361,16 @@
     "price": "1.093 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/50/50022c47-820b-4fd0-87b7-9dea87e072a8?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2350173507": {
+    "id": "2350173507",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/gepflegte-3-5-zimmer-wohnung-mit-einbaukueche-in-schwetzingen/2350173507-203-9182",
+    "title": "Gepflegte 3,5-Zimmer-Wohnung mit Einbauk\u00fcche in Schwetzingen",
+    "description": "Schwetzingen-Zentrum-Nord: 3,5 Zimmer, Wohnfl\u00e4che 85 qm, Provisionsfrei. Diese gepflegte Wohnung im...",
+    "added": "Heute, 16:08",
+    "location": "69115 Heidelberg",
+    "price": "850 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/1f/1f7c3983-f50a-4a42-9150-2beca9165aff?rule=$_2.JPG",
+    "is_topad": false
   }
 }
