@@ -372,5 +372,16 @@
     "price": "850 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/1f/1f7c3983-f50a-4a42-9150-2beca9165aff?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2350450281": {
+    "id": "2350450281",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/3-zkb-wohnung-zur-vermietung-in-heidelberg-kirchheim/2350450281-203-9178",
+    "title": "3 ZKB Wohnung zur Vermietung in Heidelberg Kirchheim",
+    "description": "3 Zimmer, Wohnk\u00fcche, Bad, ca. 62qm plus Balkonfl\u00e4che in 1. OG\nErstbezug nach Sanierung\nNeue EBK mit...",
+    "added": "Heute, 19:01",
+    "location": "69124 Heidelberg",
+    "price": "750 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/38/388708eb-f10c-4126-8bc4-3c19741d0376?rule=$_2.JPG",
+    "is_topad": false
   }
 }
