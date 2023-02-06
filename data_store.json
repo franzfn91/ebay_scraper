@@ -405,5 +405,16 @@
     "price": "1.200 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/c4/c4219e97-33bf-4ceb-bb11-4135558d9b44?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2350922294": {
+    "id": "2350922294",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/mietwohnung-in-bahnstadt-heidelberg/2350922294-203-9182",
+    "title": "Mietwohnung in Bahnstadt, Heidelberg",
+    "description": "Die K\u00fcche + gro\u00df Kleiderschrank + ein paar Lichte sollten im Wert von 3.000 eur \u00fcbernommen werden.",
+    "added": "Heute, 11:52",
+    "location": "69115 Heidelberg",
+    "price": "1.700 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/94/94a71133-39b0-4eaf-9eb1-03858b40f8b3?rule=$_2.JPG",
+    "is_topad": false
   }
 }
