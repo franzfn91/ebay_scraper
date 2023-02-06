@@ -383,5 +383,27 @@
     "price": "750 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/38/388708eb-f10c-4126-8bc4-3c19741d0376?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2350718852": {
+    "id": "2350718852",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-helle-altbauwohnung-bergheimer-strasse-anzubieten/2350718852-203-9182",
+    "title": "[TAUSCHWOHNUNG] Helle Altbauwohnung Bergheimer Stra\u00dfe anzubieten",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nHelle, gro\u00dfz\u00fcgige...",
+    "added": "Heute, 06:01",
+    "location": "69115 Heidelberg",
+    "price": "1.500 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a7/a77263f0-66c0-4356-b68f-ce658a1d2c8b?rule=$_2.JPG",
+    "is_topad": false
+  },
+  "2350718825": {
+    "id": "2350718825",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-altbauwohnung-in-der-weststadt-mit-garten/2350718825-203-9182",
+    "title": "[TAUSCHWOHNUNG] Altbauwohnung in der Weststadt mit Garten",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nDie Wohnung befindet sich in...",
+    "added": "Heute, 06:00",
+    "location": "69115 Heidelberg",
+    "price": "1.200 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/c4/c4219e97-33bf-4ceb-bb11-4135558d9b44?rule=$_2.JPG",
+    "is_topad": false
   }
 }
