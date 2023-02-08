@@ -416,5 +416,16 @@
     "price": "1.700 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/94/94a71133-39b0-4eaf-9eb1-03858b40f8b3?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2352390468": {
+    "id": "2352390468",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/mietwohnung-heidelberg-3zkb-80qm-1085-eur-mo-km-langfristig-zu-ve/2352390468-203-9183",
+    "title": "Mietwohnung Heidelberg 3ZKB 80qm 1085 EUR/Mo KM langfristig zu ve",
+    "description": "Sch\u00f6ne 3 ZKB in ruhiger Nebenstra\u00dfe in HD-Ziegelhausen\nDie Wohnung befindet sich in der vierten...",
+    "added": "Heute, 00:24",
+    "location": "69118 Heidelberg",
+    "price": "1.085 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/cb/cb61503f-08a5-4cce-bfee-ab4ef469b68a?rule=$_2.JPG",
+    "is_topad": false
   }
 }
