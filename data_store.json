@@ -438,5 +438,16 @@
     "price": "1.230 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2353132926": {
+    "id": "2353132926",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/traumwohnung-seltene-gelegenheit-in-1a-lage-neuenheim/2353132926-203-9179",
+    "title": "Traumwohnung seltene Gelegenheit in 1a Lage Neuenheim",
+    "description": "Seltene Gelegenheit in 1a Lage Heidelberg Neuenheim.\n2. OG mit 3 Zimmer im Mehrparteienhaus.",
+    "added": "Heute, 20:54",
+    "location": "69120 Heidelberg",
+    "price": "2.000 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/78/786b74aa-6e3c-49cb-b2e2-4012109af46e?rule=$_2.JPG",
+    "is_topad": false
   }
 }
