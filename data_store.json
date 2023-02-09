@@ -460,5 +460,16 @@
     "price": "750 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ca/ca077be6-9d3d-4d9a-8244-5e143fe122fb?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2353357511": {
+    "id": "2353357511",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-3zkbb-mit-loggia-in-der-bahnstadt/2353357511-203-9182",
+    "title": "[TAUSCHWOHNUNG] 3ZKBB mit Loggia in der Bahnstadt",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nModerner Neubau mit...",
+    "added": "Heute, 10:10",
+    "location": "69115 Heidelberg",
+    "price": "1.130 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/f8/f8cd60eb-db24-489b-a620-64bc057c2844?rule=$_2.JPG",
+    "is_topad": false
   }
 }
