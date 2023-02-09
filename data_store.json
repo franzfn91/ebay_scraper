@@ -449,5 +449,16 @@
     "price": "2.000 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/78/786b74aa-6e3c-49cb-b2e2-4012109af46e?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2353289198": {
+    "id": "2353289198",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/3-zkb-dg-wohnung-in-heidelberg-kirchheim/2353289198-203-9178",
+    "title": "3 ZKB DG-Wohnung in Heidelberg-Kirchheim",
+    "description": "Wir suchen zum 15.04.2023 (\u00dcbergabe kann schon Anfang April erfolgen) Nachmieter f\u00fcr unsere sch\u00f6ne,...",
+    "added": "Heute, 08:42",
+    "location": "69124 Heidelberg",
+    "price": "750 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ca/ca077be6-9d3d-4d9a-8244-5e143fe122fb?rule=$_2.JPG",
+    "is_topad": false
   }
 }
