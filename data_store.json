@@ -493,5 +493,16 @@
     "price": "1.085 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/55/55572d13-4a03-42e6-b11f-1d666fd5f7d3?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2357648751": {
+    "id": "2357648751",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/zwischenmiete-1-6-31-8-2023/2357648751-203-9179",
+    "title": "Zwischenmiete 1.6-31.8.2023",
+    "description": "Heidelberg Neuenheim in Neckarn\u00e4he",
+    "added": "Heute, 17:46",
+    "location": "69120 Heidelberg",
+    "price": "1.700 \u20ac VB",
+    "image_url": null,
+    "is_topad": false
   }
 }
