@@ -504,5 +504,27 @@
     "price": "1.700 \u20ac VB",
     "image_url": null,
     "is_topad": false
+  },
+  "2358253519": {
+    "id": "2358253519",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-suche-2-wohnungen-in-einem-haus/2358253519-203-9180",
+    "title": "[TAUSCHWOHNUNG] Suche 2 Wohnungen in einem Haus",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nBiete: Altbau, 2 B\u00e4der,...",
+    "added": "Heute, 14:12",
+    "location": "69121 Heidelberg",
+    "price": "1.130 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/cb/cb6ed421-2dce-40b0-9948-2a0cfe7ce77f?rule=$_2.JPG",
+    "is_topad": false
+  },
+  "2358252276": {
+    "id": "2358252276",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-3-zimmer-wohnung-in-heidelberg/2358252276-203-9178",
+    "title": "[TAUSCHWOHNUNG] 3-Zimmer Wohnung in Heidelberg",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nWir suchen eine 2-Zimmer...",
+    "added": "Heute, 14:11",
+    "location": "69124 Heidelberg",
+    "price": "950 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/60/60123927-2c80-41a2-9939-f303a7779b1c?rule=$_2.JPG",
+    "is_topad": false
   }
 }
