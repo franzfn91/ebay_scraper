@@ -526,5 +526,16 @@
     "price": "950 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/60/60123927-2c80-41a2-9939-f303a7779b1c?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2358407946": {
+    "id": "2358407946",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/nur-mit-wohnberechtigungsschein-3-zimmer-wohnung-in-heidelberg-emmertsgrund-zu-vermieten-/2358407946-203-9177",
+    "title": "NUR MIT WOHNBERECHTIGUNGSSCHEIN - 3-Zimmer-Wohnung in Heidelberg-Emmertsgrund zu vermieten!",
+    "description": "# Objektbeschreibung\nDiese gut geschnitte 3-Zimmer-Wohnung befindet sich in einem 1976 errichteten...",
+    "added": "Heute, 16:56",
+    "location": "69126 Heidelberg",
+    "price": "433 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/05/057b177b-cdb0-4964-aa5f-30de120257c2?rule=$_2.JPG",
+    "is_topad": false
   }
 }
