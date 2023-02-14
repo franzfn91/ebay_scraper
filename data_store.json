@@ -537,5 +537,16 @@
     "price": "433 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/05/057b177b-cdb0-4964-aa5f-30de120257c2?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2358519051": {
+    "id": "2358519051",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-wohung-in-zentraler-lage-heidelberg-mit-balkon/2358519051-203-9182",
+    "title": "[TAUSCHWOHNUNG] Wohung in zentraler Lage Heidelberg mit Balkon",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nWohung in zentraler Lage...",
+    "added": "Heute, 19:00",
+    "location": "69115 Heidelberg",
+    "price": "1.244 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/92/92e8065c-77b3-454f-975f-bed7381a03f1?rule=$_2.JPG",
+    "is_topad": false
   }
 }
