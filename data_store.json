@@ -581,5 +581,16 @@
     "price": "1.300 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/72/7280bc1e-c07e-494c-a1bf-1e3bb2df323b?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2359425588": {
+    "id": "2359425588",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/penthauswohnung-neubau-erstbezug/2359425588-203-9177",
+    "title": "Penthauswohnung Neubau, Erstbezug",
+    "description": "NK = Vorauszahlungen u.a. Fernw\u00e4rme f\u00fcr Heizung und Wasser. Strom nach Verbrauch vom Anbieter....",
+    "added": "Heute, 20:51",
+    "location": "69126 Heidelberg",
+    "price": "5.000 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
