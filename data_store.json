@@ -548,5 +548,27 @@
     "price": "1.244 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/92/92e8065c-77b3-454f-975f-bed7381a03f1?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2358758580": {
+    "id": "2358758580",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-wunderschoene-grosse-altbauwohnung-mit-balkon/2358758580-203-9177",
+    "title": "[TAUSCHWOHNUNG] Wundersch\u00f6ne gro\u00dfe Altbauwohnung mit Balkon",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nAltbauwohnung in Rohrbach,...",
+    "added": "Heute, 08:51",
+    "location": "69126 Heidelberg",
+    "price": "1.250 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a0/a03b11c3-c31e-4c17-96ac-ffe7485c0f14?rule=$_2.JPG",
+    "is_topad": false
+  },
+  "2358708948": {
+    "id": "2358708948",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-altbauwohnung-in-der-weststadt/2358708948-203-9182",
+    "title": "[TAUSCHWOHNUNG] Altbauwohnung in der Weststadt",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\n...",
+    "added": "Heute, 06:01",
+    "location": "69115 Heidelberg",
+    "price": "1.000 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6c/6c12676f-295b-467c-8d8d-5b816990987d?rule=$_2.JPG",
+    "is_topad": false
   }
 }
