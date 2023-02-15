@@ -592,5 +592,16 @@
     "price": "5.000 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2359479325": {
+    "id": "2359479325",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/schoene-3-5-zimmer-wohnung-ab-1-3-/2359479325-203-9178",
+    "title": "Sch\u00f6ne 3,5 Zimmer Wohnung ab 1.3.",
+    "description": "Wir suchen f\u00fcr unsere sch\u00f6ne und helle 3,5-Zimmerwohnung in Heidelberg-Kirchheim Nachmieter, da wir...",
+    "added": "Heute, 22:13",
+    "location": "69124 Heidelberg",
+    "price": "1.230 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a5/a5062f8e-4c8d-4bce-851a-62b249e61f8a?rule=$_2.JPG",
+    "is_topad": false
   }
 }
