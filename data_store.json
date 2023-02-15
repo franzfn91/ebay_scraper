@@ -570,5 +570,16 @@
     "price": "1.000 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6c/6c12676f-295b-467c-8d8d-5b816990987d?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2358862383": {
+    "id": "2358862383",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/2-3-zimmer-maisonette-wohnung/2358862383-203-9177",
+    "title": "2/3 Zimmer Maisonette Wohnung",
+    "description": "Sehr sch\u00f6ne 2,5 Zimmerwohnung voll m\u00f6bliert und nagelneu renoviert in einer sehr ruhigen Gegend...",
+    "added": "Heute, 10:52",
+    "location": "69126 Heidelberg",
+    "price": "1.300 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/72/7280bc1e-c07e-494c-a1bf-1e3bb2df323b?rule=$_2.JPG",
+    "is_topad": false
   }
 }
