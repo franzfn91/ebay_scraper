@@ -603,5 +603,16 @@
     "price": "1.230 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a5/a5062f8e-4c8d-4bce-851a-62b249e61f8a?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2359609579": {
+    "id": "2359609579",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/zwischenmiete-3-zimmerwohnung-kirchheim/2359609579-203-9178",
+    "title": "Zwischenmiete 3-Zimmerwohnung Kirchheim",
+    "description": "Verf\u00fcgbar vom 01.04. bis Mitte-Ende Juni (je nach Bedarf).\n\nSofa und Esstisch k\u00f6nnen gestellt...",
+    "added": "Heute, 09:27",
+    "location": "69124 Heidelberg",
+    "price": "820 \u20ac VB",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/30/309b167b-e9e1-4332-9e21-658b0ab5235f?rule=$_2.JPG",
+    "is_topad": false
   }
 }
