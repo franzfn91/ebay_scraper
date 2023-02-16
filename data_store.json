@@ -625,5 +625,16 @@
     "price": "1.700 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2360279744": {
+    "id": "2360279744",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/komfortable-drei-zimmer-wohnung-in-heidelberg/2360279744-203-9182",
+    "title": "Komfortable Drei zimmer wohnung in Heidelberg",
+    "description": "Wohnung bietet eine perfekte Unterkunft f\u00fcr 4 Personen auf einem Doppelbett und zwei Einzelbetten...",
+    "added": "Heute, 22:57",
+    "location": "69115 Heidelberg",
+    "price": "650 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/8c/8c8ef8c9-65df-4cf2-a8bf-03898aa680e7?rule=$_2.JPG",
+    "is_topad": false
   }
 }
