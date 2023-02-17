@@ -636,5 +636,16 @@
     "price": "650 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/8c/8c8ef8c9-65df-4cf2-a8bf-03898aa680e7?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2360967874": {
+    "id": "2360967874",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-3-zimmer-wohnung-in-der-weststadt/2360967874-203-9182",
+    "title": "[TAUSCHWOHNUNG] 3 Zimmer Wohnung in der Weststadt",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nWir suchen eine 2,5 -3...",
+    "added": "Heute, 18:40",
+    "location": "69115 Heidelberg",
+    "price": "1.200 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a5/a506683a-0cda-492c-8a8b-f0a51f28f905?rule=$_2.JPG",
+    "is_topad": false
   }
 }
