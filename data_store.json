@@ -647,5 +647,16 @@
     "price": "1.200 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/a5/a506683a-0cda-492c-8a8b-f0a51f28f905?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2362082777": {
+    "id": "2362082777",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/rentnerehepaar-mit-aelterem-hund-sucht-zuhause/2362082777-203-9177",
+    "title": "Rentnerehepaar mit \u00e4lterem Hund sucht Zuhause",
+    "description": "Suchen f\u00fcr Oma und Opa und ihren treuen Hund eine Erdgeschosswohnung mit 2-3 ZKB n\u00e4her bei uns in...",
+    "added": "Heute, 20:29",
+    "location": "69126 Heidelberg",
+    "price": "800 \u20ac VB",
+    "image_url": null,
+    "is_topad": false
   }
 }
