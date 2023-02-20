@@ -658,5 +658,16 @@
     "price": "800 \u20ac VB",
     "image_url": null,
     "is_topad": false
+  },
+  "2363637545": {
+    "id": "2363637545",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/3zimmer-wohnung-in-schriesheim/2363637545-203-9182",
+    "title": "3Zimmer Wohnung in Schriesheim",
+    "description": "Die sch\u00f6n aufgeteilte 3 Zimmer Wohnung hat eine Wohnfl\u00e4che von etwa 86qm. Sie besteht aus einer...",
+    "added": "Heute, 12:05",
+    "location": "69115 Heidelberg",
+    "price": "1.050 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/75/7520407c-bb1e-426a-8173-6a1ac154efe8?rule=$_2.JPG",
+    "is_topad": false
   }
 }
