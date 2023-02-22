@@ -680,5 +680,16 @@
     "price": "1.250 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/66/6678412d-178b-4dfc-8035-91638f50d702?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2365654058": {
+    "id": "2365654058",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/tauschwohnung-in-heidelberg-bergheim-3zkb/2365654058-203-9182",
+    "title": "Tauschwohnung in Heidelberg / Bergheim 3ZKB",
+    "description": "Was wir bieten:\nZum Tausch bieten wir eine sehr gut gelegene erschwingliche 3ZKB in Bergheim,...",
+    "added": "Heute, 16:17",
+    "location": "69115 Heidelberg",
+    "price": "1.000 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/82/82f0f4a2-c921-42d2-93f5-e65098627865?rule=$_2.JPG",
+    "is_topad": false
   }
 }
