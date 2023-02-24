@@ -691,5 +691,16 @@
     "price": "1.000 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/82/82f0f4a2-c921-42d2-93f5-e65098627865?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2366923208": {
+    "id": "2366923208",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/5-zimmer-wohnung-hd-zu-vermieten/2366923208-203-9177",
+    "title": "5 Zimmer Wohnung HD zu vermieten",
+    "description": "Die Wohnung ist frei ab April. Sie liegt in einer ruhigen Top Lage in Heidelberg am Mombertplatz....",
+    "added": "Heute, 08:18",
+    "location": "69126 Heidelberg",
+    "price": "750 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/56/56bda0a2-6b47-4557-b1a8-66affd2c90f6?rule=$_2.JPG",
+    "is_topad": false
   }
 }
