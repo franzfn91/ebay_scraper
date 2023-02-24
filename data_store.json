@@ -702,5 +702,16 @@
     "price": "750 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/56/56bda0a2-6b47-4557-b1a8-66affd2c90f6?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2367006768": {
+    "id": "2367006768",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/zwischenmiete-4-5-zi-altbau-whg-in-hd-neuenheim-bevorzugte-lage/2367006768-203-9179",
+    "title": "ZWISCHENMIETE 4,5 Zi Altbau Whg in HD Neuenheim, bevorzugte Lage",
+    "description": "Wir gehen f\u00fcr ein Jahr beruflich ins Ausland und suchen einen Zwischenmieter f\u00fcr unsere Maisonette...",
+    "added": "Heute, 10:05",
+    "location": "69120 Heidelberg",
+    "price": "2.300 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6f/6fe45901-cce1-41b2-9dfe-79ea595c5dc7?rule=$_2.JPG",
+    "is_topad": false
   }
 }
