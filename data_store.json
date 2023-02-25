@@ -713,5 +713,16 @@
     "price": "2.300 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/6f/6fe45901-cce1-41b2-9dfe-79ea595c5dc7?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2368470374": {
+    "id": "2368470374",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-tausche-wohnung-in-heidelberg-gegen-eine-wohnung-in-berlin/2368470374-203-9181",
+    "title": "[TAUSCHWOHNUNG] Tausche Wohnung in Heidelberg gegen eine Wohnung in Berlin",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nHallo, ich tausche meine 3...",
+    "added": "Heute, 16:21",
+    "location": "69123 Heidelberg",
+    "price": "950 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/9f/9f666ce2-2288-40dc-b101-53208bd12489?rule=$_2.JPG",
+    "is_topad": false
   }
 }
