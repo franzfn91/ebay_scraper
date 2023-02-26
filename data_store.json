@@ -724,5 +724,16 @@
     "price": "950 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/9f/9f666ce2-2288-40dc-b101-53208bd12489?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2368907522": {
+    "id": "2368907522",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/5-zimmer-wohnung-hd-zu-vermieten/2368907522-203-9177",
+    "title": "5 Zimmer Wohnung HD zu vermieten",
+    "description": "BITTE GENAU LESEN, DANN ANTWORTEN !\n\nZur Vermietung steht hier eine 5 Zimmer Wohnung in Heidelberg...",
+    "added": "Heute, 07:57",
+    "location": "69126 Heidelberg",
+    "price": "750 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/76/76cdcf3c-cef3-4b0b-bad8-2a215accf675?rule=$_2.JPG",
+    "is_topad": false
   }
 }
