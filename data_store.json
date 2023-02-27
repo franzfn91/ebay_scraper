@@ -757,5 +757,16 @@
     "price": "1.650 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/07/07498fde-d13d-4260-b913-8b23dd6e1dbf?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2370812939": {
+    "id": "2370812939",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/helle-3-5-zimmer-dachgeschoss-wohnung/2370812939-203-9183",
+    "title": "Helle 3,5 Zimmer-Dachgeschoss Wohnung",
+    "description": "In dieser lichtdurchfluteten 3,5-Zimmer Wohnung haben Sie viel Platz f\u00fcr sich und Ihre Liebsten....",
+    "added": "Heute, 18:28",
+    "location": "69118 Heidelberg",
+    "price": "1.300 \u20ac VB",
+    "image_url": null,
+    "is_topad": false
   }
 }
