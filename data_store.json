@@ -779,5 +779,16 @@
     "price": "750 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/06/067b5037-5509-4761-a860-90041c2074dc?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2370999564": {
+    "id": "2370999564",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/junges-paeaerchen-mit-hund-sucht-2-3-zw/2370999564-203-9177",
+    "title": "Junges P\u00e4\u00e4rchen mit Hund sucht 2-3 ZW",
+    "description": "Meine Freundin und ich (beide 26), suchen zeitnah einen2-3 Zimmerwohnung, da wir zusammen ziehen...",
+    "added": "Heute, 22:29",
+    "location": "69126 Heidelberg",
+    "price": "800 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
