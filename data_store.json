@@ -746,5 +746,16 @@
     "price": "1.085 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/15/15ffe337-703f-4886-bef9-e846b4bfcee9?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2370690658": {
+    "id": "2370690658",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/4zi-wng-mit-einbaukueche-balkon-teilmoebliert-in-hd-gute-lage/2370690658-203-9177",
+    "title": "4Zi Wng mit Einbauk\u00fcche, Balkon, teilm\u00f6bliert, in HD, gute Lage",
+    "description": "Sch\u00f6ne, gut aufgeteilte, helle und recht neue Wohnung mit Keller, Balkon, PKW-Stellplatz (Garage)...",
+    "added": "Heute, 16:36",
+    "location": "69126 Heidelberg",
+    "price": "1.650 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/07/07498fde-d13d-4260-b913-8b23dd6e1dbf?rule=$_2.JPG",
+    "is_topad": false
   }
 }
