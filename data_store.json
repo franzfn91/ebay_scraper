@@ -801,5 +801,16 @@
     "price": "800 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/db/dbf25160-3718-4344-9e59-6e72935f15a1?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2371737032": {
+    "id": "2371737032",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/charmante-altbauwohnung-nahe-wald/2371737032-203-9181",
+    "title": "Charmante Altbauwohnung nahe Wald",
+    "description": "Zimmer:\n1 gro\u00dfes Wohn-Esszimmer\n1 Durchgangszimmer mit einer Terassent\u00fcr\n1 angeschlossenes Zimmer...",
+    "added": "Heute, 19:51",
+    "location": "69123 Heidelberg",
+    "price": "565 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/7c/7c116c5e-2bab-4104-b205-de492be99763?rule=$_2.JPG",
+    "is_topad": false
   }
 }
