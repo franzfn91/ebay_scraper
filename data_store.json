@@ -790,5 +790,16 @@
     "price": "800 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2371049427": {
+    "id": "2371049427",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-suche-1-2-z-whg-in-hd-als-tausch-gibt-es-tauschpremie/2371049427-203-9182",
+    "title": "[TAUSCHWOHNUNG] Suche 1-2 Z. Whg. in HD - als Tausch gibt es Tauschpremie",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nHallo Zusammen,\n\nIch habe...",
+    "added": "Heute, 06:01",
+    "location": "69115 Heidelberg",
+    "price": "800 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/db/dbf25160-3718-4344-9e59-6e72935f15a1?rule=$_2.JPG",
+    "is_topad": false
   }
 }
