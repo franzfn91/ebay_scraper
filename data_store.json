@@ -856,5 +856,16 @@
     "price": "VB",
     "image_url": null,
     "is_topad": false
+  },
+  "2375049135": {
+    "id": "2375049135",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/sonnige-altbauwohnung-in-der-weststadt/2375049135-203-9182",
+    "title": "Sonnige Altbauwohnung in der Weststadt",
+    "description": "Wir suchen Nachmieter f\u00fcr unsere wundersch\u00f6ne, zentrumsnahe 3ZKB Altbau-Wohnung in der Rohrbacher...",
+    "added": "Heute, 15:42",
+    "location": "69115 Heidelberg",
+    "price": "1.280 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/bf/bfea6682-cf45-41d3-a5b0-b1d4e6ed7540?rule=$_2.JPG",
+    "is_topad": false
   }
 }
