@@ -878,5 +878,16 @@
     "price": "500 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/07/07955871-d3b9-4d78-ad87-aa1d48f538d0?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2376652748": {
+    "id": "2376652748",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/4-zimmer-wohnung-in-kirchheim/2376652748-203-9178",
+    "title": "4 Zimmer Wohnung in Kirchheim",
+    "description": "Objektbeschreibung:\n\nVermietet wird eine 4-Zimmer-Wohnung in Heidelberg-Kirchheim. Sie ist in einer...",
+    "added": "Heute, 19:54",
+    "location": "69124 Heidelberg",
+    "price": "1.200 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/00/00147d58-5530-4322-b2ea-3c63dcea6868?rule=$_2.JPG",
+    "is_topad": false
   }
 }
