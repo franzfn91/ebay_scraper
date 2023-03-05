@@ -867,5 +867,16 @@
     "price": "1.280 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/bf/bfea6682-cf45-41d3-a5b0-b1d4e6ed7540?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2375497187": {
+    "id": "2375497187",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/wg-zimmer-in-3-zimmer-wohnung-wg-neugruendung/2375497187-203-9181",
+    "title": "WG  Zimmer  in 3 Zimmer Wohnung  WG Neugr\u00fcndung",
+    "description": "Bitte Zimmer in 3 Zimmer Wohnung .\nGemeinsame K\u00fcche mit Esszimmer,Bad mit separaten WC ,Waschkeller...",
+    "added": "Heute, 03:51",
+    "location": "69123 Heidelberg",
+    "price": "500 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/07/07955871-d3b9-4d78-ad87-aa1d48f538d0?rule=$_2.JPG",
+    "is_topad": false
   }
 }
