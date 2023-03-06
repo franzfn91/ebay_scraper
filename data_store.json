@@ -922,5 +922,16 @@
     "price": "1.500 \u20ac",
     "image_url": null,
     "is_topad": false
+  },
+  "2377593642": {
+    "id": "2377593642",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/4zi-wng-mit-einbaukueche-teilmoebliert-in-hd-rohrbach/2377593642-203-9177",
+    "title": "4Zi.Wng. mit Einbauk\u00fcche, teilm\u00f6bliert in HD-Rohrbach",
+    "description": "Teilm\u00f6blierte (zum Abkauf!), gro\u00dfr\u00e4umige, helle und gut aufgeteilte 4Zi.Wng mit Balkon und...",
+    "added": "Heute, 19:45",
+    "location": "69126 Heidelberg",
+    "price": "1.700 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/7e/7ea91abc-c1fc-4218-b687-102cbef43917?rule=$_2.JPG",
+    "is_topad": false
   }
 }
