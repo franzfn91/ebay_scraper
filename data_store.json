@@ -911,5 +911,16 @@
     "price": "680 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/59/5918751e-761a-4035-9008-43e7d6eae09a?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2377131421": {
+    "id": "2377131421",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-zur-zwischenmiete/2377131421-203-9179",
+    "title": "Wohnung zur Zwischenmiete",
+    "description": "Wir untervermieten unsere Wohnung in sehr zentraler Lage in der Br\u00fcckenstra\u00dfe in Heidelberg...",
+    "added": "Heute, 12:49",
+    "location": "69120 Heidelberg",
+    "price": "1.500 \u20ac",
+    "image_url": null,
+    "is_topad": false
   }
 }
