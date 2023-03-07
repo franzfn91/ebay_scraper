@@ -933,5 +933,16 @@
     "price": "1.700 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/7e/7ea91abc-c1fc-4218-b687-102cbef43917?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2378168077": {
+    "id": "2378168077",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/studentenwohnheim-in-rohrbach-heidelberg/2378168077-203-9177",
+    "title": "Studentenwohnheim in Rohrbach, Heidelberg",
+    "description": "Einzelzimmer in Rohrbach, Heidelberg. g\u00fcnstige Verkehrsverbindungen(Tram, S-Bahn), Viele Supermarkt...",
+    "added": "Heute, 14:37",
+    "location": "69126 Heidelberg",
+    "price": "495 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ed/ed9626e1-cbd2-4e36-9fba-af1af9de37f2?rule=$_2.JPG",
+    "is_topad": false
   }
 }
