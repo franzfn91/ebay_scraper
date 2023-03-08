@@ -944,5 +944,27 @@
     "price": "495 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ed/ed9626e1-cbd2-4e36-9fba-af1af9de37f2?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2344078773": {
+    "id": "2344078773",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/mietwohnung-im-raum-mannheim-ab-mai-/2344078773-203-9181",
+    "title": "Mietwohnung im Raum Mannheim (ab Mai)",
+    "description": "Ich, ein 41-j\u00e4hriger netter Mexicaner sucht stufenlose 3 bis 4-Zimmer-Wohnung f\u00fcr sich und seine...",
+    "added": "Heute, 09:27",
+    "location": "69123 Heidelberg",
+    "price": "1.000 \u20ac VB",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/7c/7c8426f7-8cda-4e74-b31c-ff4a566b08ae?rule=$_2.JPG",
+    "is_topad": true
+  },
+  "2378739283": {
+    "id": "2378739283",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/4zi-wng-mit-einbaukueche-und-teilmoebliert-in-hd-rb/2378739283-203-9177",
+    "title": "4Zi.Wng mit Einbauk\u00fcche und teilm\u00f6bliert in HD RB",
+    "description": "Helle, neue, gro\u00dfr\u00e4umige, gut aufgeteilte und teilm\u00f6blierte Wohnung in HD RB.",
+    "added": "Heute, 09:27",
+    "location": "69126 Heidelberg",
+    "price": "1.700 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/49/49df2661-bf3f-4036-bfe6-a1bd935a0d83?rule=$_2.JPG",
+    "is_topad": false
   }
 }
