@@ -966,5 +966,16 @@
     "price": "1.700 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/49/49df2661-bf3f-4036-bfe6-a1bd935a0d83?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2381825759": {
+    "id": "2381825759",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/eg-wohnung-baujahr-2021-4-5-zimmer-125-m2-in-horrenberg-dielhei/2381825759-203-9178",
+    "title": "EG Wohnung Baujahr 2021, 4.5 Zimmer, 125 m2 in Horrenberg/Dielhei",
+    "description": "Ich biete hier eine EG Wohnung mit hochwertiger Ausstattung. Sonnendurchflutete R\u00e4ume sorgen f\u00fcr...",
+    "added": "Heute, 15:22",
+    "location": "69124 Heidelberg",
+    "price": "1.650 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/64/64a81878-bef7-471c-9fbc-77a8d3386a6a?rule=$_2.JPG",
+    "is_topad": false
   }
 }
