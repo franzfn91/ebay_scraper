@@ -977,5 +977,38 @@
     "price": "1.650 \u20ac",
     "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/64/64a81878-bef7-471c-9fbc-77a8d3386a6a?rule=$_2.JPG",
     "is_topad": false
+  },
+  "2382573371": {
+    "id": "2382573371",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/mietwohnung-heidelberg-3zkb-80qm-1085-eur-mo-km-langfristig-zu-ve/2382573371-203-9183",
+    "title": "Mietwohnung Heidelberg 3ZKB 80qm 1085 EUR/Mo KM langfristig zu ve",
+    "description": "Sch\u00f6ne 3 ZKB in ruhiger Nebenstra\u00dfe in HD-Ziegelhausen\nDie Wohnung befindet sich in der vierten...",
+    "added": "Heute, 11:20",
+    "location": "69118 Heidelberg",
+    "price": "1.085 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/9b/9b4006ae-563b-47e8-8699-46b7ba0592dd?rule=$_2.JPG",
+    "is_topad": false
+  },
+  "2382399775": {
+    "id": "2382399775",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/eg-wohnung-baujahr-2021-in-horrenberg-dielheim-4-5-zimmer-125-m2/2382399775-203-9178",
+    "title": "EG Wohnung Baujahr 2021 in Horrenberg/Dielheim 4.5 Zimmer, 125 m2",
+    "description": "biete hier eine EG Wohnung mit hochwertiger Ausstattung. Sonnendurchflutete R\u00e4ume sorgen f\u00fcr ein...",
+    "added": "Heute, 09:20",
+    "location": "69124 Heidelberg",
+    "price": "1.350 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/d5/d534c256-1494-4b07-8230-bbd6d36c96c8?rule=$_2.JPG",
+    "is_topad": false
+  },
+  "2382320568": {
+    "id": "2382320568",
+    "url": "https://www.ebay-kleinanzeigen.de/s-anzeige/-tauschwohnung-guenstige-3zkb-altbau-wohnung-in-hd-bergheim/2382320568-203-9182",
+    "title": "[TAUSCHWOHNUNG] G\u00fcnstige 3ZKB Altbau-Wohnung in HD-Bergheim",
+    "description": "# Objektbeschreibung\nEs handelt es sich hierbei um ein Tauschangebot.\n\nWas wir bieten:\nZum Tausch...",
+    "added": "Heute, 06:13",
+    "location": "69115 Heidelberg",
+    "price": "640 \u20ac",
+    "image_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/37/37f538e5-f06b-4b1d-a38d-673518b7a155?rule=$_2.JPG",
+    "is_topad": false
   }
 }
